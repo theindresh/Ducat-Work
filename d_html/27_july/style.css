@@ -1,0 +1,18 @@
+#icon{
+    color: red;
+    font-weight: bold;
+}
+dt{
+    background-color: aqua;
+    color: black;
+    margin: 10px;
+    padding-bottom: 20px;
+    position: sticky;
+    top: 0px;
+}
+dd{
+    color: black;
+    margin: 10px;
+    padding-bottom: 20px;
+    background-color: blue;
+}

@@ -1,0 +1,13 @@
+@media screen {
+  h1 {
+    background-color: green;
+    color: white;
+    text-align: center;
+  }
+  aside {
+    width: 400px;
+    height: 200px;
+    border: 2px dotted red;
+    padding: 5px;
+  }
+}
